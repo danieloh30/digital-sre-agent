@@ -1,4 +1,4 @@
-# devopsdays-tokyo-2026
+# Digital SRE Agent
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
